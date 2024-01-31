@@ -15,3 +15,43 @@ header h1 {
     color: black;
     text-shadow: 2px 2px 2px darkblue;
 }
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: steelblue;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+nav a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+main img {
+    display: block;
+    width: 30%;
+    margin: 20px auto;
+}
+
+a {
+    color: midnightblue;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
