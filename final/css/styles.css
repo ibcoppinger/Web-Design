@@ -6,7 +6,7 @@ img {
 }
 
 body {
-    background-color: rgb(62, 62, 177);
+    background-color: rgb(57, 29, 139);
 }
 
 #container {
@@ -29,7 +29,7 @@ a:hover {
 
 /* Mobile Styles */
 nav {
-    background-color: rgb(29, 69, 120);
+    background-color: rgb(56, 88, 161);
     padding: 10px;
 }
 
@@ -47,7 +47,7 @@ nav li a {
     height: 40px;
     line-height: 40px;
     color: floralwhite;
-    background-color: rgb(133, 133, 211);
+    background-color: rgb(54, 54, 173);
     text-align: center;
     margin: 5px 0;
     font-size: 20px;
