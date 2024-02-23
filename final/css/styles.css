@@ -6,7 +6,7 @@ img {
 }
 
 body {
-    background-color: rgb(59, 59, 142);
+    background-color: rgb(62, 62, 177);
 }
 
 #container {
@@ -29,7 +29,7 @@ a:hover {
 
 /* Mobile Styles */
 nav {
-    background-color: cadetblue;
+    background-color: rgb(100, 148, 210);
     padding: 10px;
 }
 
